@@ -3,15 +3,6 @@
 - มีไว้สำหรับเปิดเซิร์ฟเวอร์แบบเก่าๆหรือแบบล่าสุด
 - **It is for opening the old or the latest server.**
 
-
-```
-main(){}
-```
-`important` , `สำคัญ`
-
-- ให้เซิฟเวอร์ใช้
-- **let the server use**
-
 SAMP
 ======
 
